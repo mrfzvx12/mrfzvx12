@@ -1,6 +1,5 @@
-<p align="center">
-  <h1> Hai, welcome :wave:</h1>
-</p>
+## Hai, welcome :wave:</h1>
+
 &nbsp;
 &nbsp;
 &nbsp;
@@ -24,7 +23,7 @@ Contacts me :
 
 &nbsp;&nbsp;&nbsp;
 
-<h2>My Stats</h2>
+## My Stats
 
 
 <!--START_SECTION:waka-->
