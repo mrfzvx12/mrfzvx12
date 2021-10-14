@@ -20,8 +20,6 @@ Contacts me :
 
 <h2>My Stats</h2>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 &nbsp;&nbsp;&nbsp;
 
