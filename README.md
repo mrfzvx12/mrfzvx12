@@ -26,4 +26,75 @@ Contacts me :
 ## My Stats
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-201-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 311 Contributions in the Year 2021
+ > 
+> 📦 9.1 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 10 Public Repositories 
+ > 
+> 🔑 3 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    84 commits     █████░░░░░░░░░░░░░░░░░░░░   21.71% 
+🌆 Daytime    185 commits    ████████████░░░░░░░░░░░░░   47.8% 
+🌃 Evening    104 commits    ██████░░░░░░░░░░░░░░░░░░░   26.87% 
+🌙 Night      14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.62%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.18% 
+Tuesday      22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.68% 
+Wednesday    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Thursday     45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.63% 
+Friday       98 commits     ██████░░░░░░░░░░░░░░░░░░░   25.32% 
+Saturday     28 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.24% 
+Sunday       143 commits    █████████░░░░░░░░░░░░░░░░   36.95%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               6 repos             █████████████████████░░░░   85.71% 
+TypeScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/mrfzvx12/mrfzvx12/main/charts/bar_graph.png) 
+
+
+ Last Updated on 14/10/2021
 <!--END_SECTION:waka-->
