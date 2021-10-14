@@ -26,11 +26,11 @@ Contacts me :
 ## My Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-201-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-266-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 311 Contributions in the Year 2021
+> 🏆 319 Contributions in the Year 2021
  > 
 > 📦 9.1 kB Used in GitHub's Storage 
  > 
