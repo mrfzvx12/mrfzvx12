@@ -24,6 +24,3 @@ Contacts me :
 &nbsp;&nbsp;&nbsp;
 
 ## My Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
