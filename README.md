@@ -18,9 +18,11 @@ Contacts me :
 
 &nbsp;&nbsp;&nbsp;
 
+<h2>My Stats</h2>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 &nbsp;&nbsp;&nbsp;
 
+<h2>I'm Working At</h2>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mrfzvx12&repo=termux-whatsapp-bot&theme=buefy)](https://github.com/mrfzvx12/termux-whatsapp-bot)
