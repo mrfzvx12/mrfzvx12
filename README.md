@@ -26,7 +26,7 @@ Contacts me :
 ## My Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-275-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-277-blue)
 
 **🐱 My GitHub Data** 
 
@@ -96,5 +96,5 @@ TypeScript               1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/mrfzvx12/mrfzvx12/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/10/2021
+ Last Updated on 19/10/2021
 <!--END_SECTION:waka-->
