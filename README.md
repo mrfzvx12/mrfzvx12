@@ -26,7 +26,7 @@ Contacts me :
 ## My Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-277-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-278-blue)
 
 **🐱 My GitHub Data** 
 
@@ -85,8 +85,8 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               6 repos             █████████████████████░░░░   85.71% 
-TypeScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
+JavaScript               7 repos             ██████████████████████░░░   87.5% 
+TypeScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
 
 ```
 
@@ -96,5 +96,5 @@ TypeScript               1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/mrfzvx12/mrfzvx12/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/10/2021
+ Last Updated on 21/10/2021
 <!--END_SECTION:waka-->
