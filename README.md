@@ -18,10 +18,11 @@
 
 ## My Stats
 
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-279-blue)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrfzvx12&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-- [ ] **GitHub Data**
+<!--START_SECTION:waka-->
+
+- [x] **GitHub Data**
 
 > 302 Contributions in the Year 2021
  > 
@@ -34,7 +35,7 @@
 > 1 Private Repository 
  > 
 
-- [ ] **I'm an Early**
+- [x] **I'm an Early**
 
 ```text
 Morning    74 commits     ██████░░░░░░░░░░░░░░░░░░░   24.03% 
@@ -43,7 +44,7 @@ Evening    124 commits    ██████████░░░░░░░░
 Night      9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.92%
 
 ```
-- [ ] **Most Productive on Monday**
+- [x] **Most Productive on Monday**
 
 ```text
 Monday       93 commits     ███████░░░░░░░░░░░░░░░░░░   30.19% 
@@ -57,7 +58,7 @@ Sunday       66 commits     █████░░░░░░░░░░░░�
 ```
 
 
-- [ ] **This Week I Spent My Time On** 
+- [x] **This Week I Spent My Time On** 
 
 ```text
 Time Zone: Asia/Jakarta
@@ -76,7 +77,7 @@ No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in JavaScript** 
+- [x] **Mostly Code in JavaScript** 
 
 ```text
 JavaScript               6 repos             █████████████████████░░░░   85.71% 
@@ -85,7 +86,7 @@ TypeScript               1 repo              ███░░░░░░░░�
 ```
 
 
-**Timeline**
+- [x] **Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/mrfzvx12/mrfzvx12/main/charts/bar_graph.png) 
 
