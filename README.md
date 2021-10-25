@@ -21,63 +21,63 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrfzvx12&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-279-blue)
 
-- [x] **GitHub Data**
+**🐱 My GitHub Data** 
 
-> 302 Contributions in the Year 2021
+> 🏆 369 Contributions in the Year 2021
  > 
-> 901 Bytes Used in GitHub's Storage 
+> 📦 6.6 kB Used in GitHub's Storage 
  > 
-> Not Opted to Hire
+> 🚫 Not Opted to Hire
  > 
-> 7 Public Repositories 
+> 📜 7 Public Repositories 
  > 
-> 1 Private Repository 
+> 🔑 1 Private Repository 
  > 
-
-- [x] **I'm an Early**
+**I'm an Early 🐤** 
 
 ```text
-Morning    74 commits     ██████░░░░░░░░░░░░░░░░░░░   24.03% 
-Daytime    101 commits    ████████░░░░░░░░░░░░░░░░░   32.79% 
-Evening    124 commits    ██████████░░░░░░░░░░░░░░░   40.26% 
-Night      9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.92%
+🌞 Morning    77 commits     █████░░░░░░░░░░░░░░░░░░░░   22.85% 
+🌆 Daytime    157 commits    ███████████░░░░░░░░░░░░░░   46.59% 
+🌃 Evening    94 commits     ███████░░░░░░░░░░░░░░░░░░   27.89% 
+🌙 Night      9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.67%
 
 ```
-- [x] **Most Productive on Monday**
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       93 commits     ███████░░░░░░░░░░░░░░░░░░   30.19% 
-Tuesday      21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.82% 
-Wednesday    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32% 
-Thursday     26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.44% 
-Friday       52 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.88% 
-Saturday     49 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.91% 
-Sunday       66 commits     █████░░░░░░░░░░░░░░░░░░░░   21.43%
-
-```
-
-
-- [x] **This Week I Spent My Time On** 
-
-```text
-Time Zone: Asia/Jakarta
-
-Programming Languages: 
-No Activity Tracked This Week
-
-Editors: 
-No Activity Tracked This Week
-
-Projects: 
-No Activity Tracked This Week
-
-Operating System: 
-No Activity Tracked This Week
+Monday       118 commits    ████████░░░░░░░░░░░░░░░░░   35.01% 
+Tuesday      21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.23% 
+Wednesday    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3% 
+Thursday     26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.72% 
+Friday       14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.15% 
+Saturday     49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.54% 
+Sunday       108 commits    ████████░░░░░░░░░░░░░░░░░   32.05%
 
 ```
 
-- [x] **Mostly Code in JavaScript** 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
 
 ```text
 JavaScript               6 repos             █████████████████████░░░░   85.71% 
@@ -86,10 +86,10 @@ TypeScript               1 repo              ███░░░░░░░░�
 ```
 
 
-- [x] **Timeline**
+**Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/mrfzvx12/mrfzvx12/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/10/2021
+ Last Updated on 25/10/2021
 <!--END_SECTION:waka-->
