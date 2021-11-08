@@ -21,13 +21,13 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrfzvx12&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-66-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 582 Contributions in the Year 2021
+> 🏆 587 Contributions in the Year 2021
  > 
-> 📦 7.7 kB Used in GitHub's Storage 
+> 📦 7.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,21 +38,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    85 commits     ██████░░░░░░░░░░░░░░░░░░░   24.93% 
+🌞 Morning    87 commits     ██████░░░░░░░░░░░░░░░░░░░   25.51% 
 🌆 Daytime    111 commits    ████████░░░░░░░░░░░░░░░░░   32.55% 
-🌃 Evening    97 commits     ███████░░░░░░░░░░░░░░░░░░   28.45% 
+🌃 Evening    95 commits     ███████░░░░░░░░░░░░░░░░░░   27.86% 
 🌙 Night      48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.08%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       113 commits    ████████░░░░░░░░░░░░░░░░░   33.14% 
+Monday       118 commits    ████████░░░░░░░░░░░░░░░░░   34.6% 
 Tuesday      21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.16% 
 Wednesday    14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.11% 
 Thursday     43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.61% 
-Friday       11 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23% 
-Saturday     57 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.72% 
+Friday       7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.05% 
+Saturday     56 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.42% 
 Sunday       82 commits     ██████░░░░░░░░░░░░░░░░░░░   24.05%
 
 ```
@@ -91,5 +91,5 @@ TypeScript               1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/mrfzvx12/mrfzvx12/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/11/2021
+ Last Updated on 08/11/2021
 <!--END_SECTION:waka-->
