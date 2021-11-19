@@ -21,13 +21,13 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrfzvx12&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-41-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 667 Contributions in the Year 2021
+> 🏆 671 Contributions in the Year 2021
  > 
-> 📦 8.6 kB Used in GitHub's Storage 
+> 📦 8.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,8 +51,8 @@ Monday       100 commits    ███████░░░░░░░░░░�
 Tuesday      21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.93% 
 Wednesday    15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.24% 
 Thursday     50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.12% 
-Friday       28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.91% 
-Saturday     49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.84% 
+Friday       31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.76% 
+Saturday     46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.99% 
 Sunday       91 commits     ██████░░░░░░░░░░░░░░░░░░░   25.71%
 
 ```
@@ -91,5 +91,5 @@ TypeScript               1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/mrfzvx12/mrfzvx12/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/11/2021
+ Last Updated on 19/11/2021
 <!--END_SECTION:waka-->
