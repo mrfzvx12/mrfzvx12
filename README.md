@@ -21,7 +21,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrfzvx12&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 **🐱 My GitHub Data** 
 
@@ -91,5 +91,5 @@ TypeScript               1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/mrfzvx12/mrfzvx12/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/02/2022 18:41:17 UTC
+ Last Updated on 24/02/2022 18:42:49 UTC
 <!--END_SECTION:waka-->
